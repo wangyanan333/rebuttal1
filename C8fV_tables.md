@@ -1,4 +1,4 @@
-Table 1: Performance comparison of Markov Boundary discovery across various class correlation rates ($pc$).
+Table 1: Performance comparison of Markov Boundary discovery across various class correlation rates (*pc*).
 
 |      $pc$      |  Metrics  |    **MMPC**     |    **HITON**    |    **M2LC**     |   **MI-MCF**    | **Ca-MCF (Ours)** |
 | :------------: | :-------: | :-------------: | :-------------: | :-------------: | :-------------: | :---------------: |
@@ -12,7 +12,7 @@ Table 1: Performance comparison of Markov Boundary discovery across various clas
 |                |  Recall   |     0.8323      |     0.8073      |     0.7842      |     0.7123      |      0.9256       |
 |                | F1-score  | 0.8524 ± 0.0197 | 0.8298 ± 0.0212 | 0.8309 ± 0.0202 | 0.7987 ± 0.0254 |  0.9558 ± 0.0039  |
 
-Table 2: Robustness analysis (Recall) under varying class-level blocking strengths ($pb$).
+Table 2: Robustness analysis (Recall) under varying class-level blocking strengths (*pb*).
 
 |     $pb$     |    **MMPC**     |    **HITON**    |    **M2LC**     |   **MI-MCF**    | **Ca-MCF (Ours)** |
 | :----------: | :-------------: | :-------------: | :-------------: | :-------------: | :---------------: |
